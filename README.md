@@ -42,4 +42,5 @@ When problems encountered the debouncing of buttons as well as counters' accurac
 
 ![pushbutton](https://github.com/user-attachments/assets/97cf8328-e48a-4184-bb11-50d833c80748)
 
-video: https://github.com/user-attachments/assets/eaaab3cb-708b-4a92-a05a-ba2c677778f0
+video: [https://github.com/user-attachments/assets/eaaab3cb-708b-4a92-a05a-ba2c677778f0](https://github.com/user-attachments/assets/24c6d5b9-30e9-49c2-a310-36fd657b4e8c
+)
