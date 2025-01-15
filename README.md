@@ -40,6 +40,6 @@ Debug my code by identifying where I did it wrong, as well as providing optimal 
 When problems encountered the debouncing of buttons as well as counters' accuracy, ChatGPT described common methods for debouncing, and example code using millis() to count over time, avoiding blocking in the main program loop. Its capacity to develop personalized code snippet, as well as comments detailed, greatly accelerated the coding work for me.
 # OUTPUT 
 
-![task1](https://github.com/user-attachments/assets/ac67cdb2-c85e-4051-9cc9-fa369c13a455)
+![pushbutton](https://github.com/user-attachments/assets/97cf8328-e48a-4184-bb11-50d833c80748)
 
 video: https://github.com/user-attachments/assets/eaaab3cb-708b-4a92-a05a-ba2c677778f0
